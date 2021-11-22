@@ -1,0 +1,144 @@
+[Fri Apr 17 00:22:22.024087 2020] [php7:error] [pid 23012] [client 40.118.4.85:36244] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat, referer: http://convention.neolifeafrica.info/wp-login.php
+[Sun Apr 19 19:53:59.103148 2020] [php7:error] [pid 6861] [client 192.99.34.142:57233] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat
+[Fri Apr 24 14:59:17.181614 2020] [php7:error] [pid 1813] [client 107.189.10.93:59868] script '/var/www/convention.neolifeafrica.info/xmlrpc.php' not found or unable to stat
+[Sat Apr 25 03:32:11.756082 2020] [php7:error] [pid 15794] [client 157.230.35.172:35218] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat, referer: http://convention.neolifeafrica.info/wp-login.php
+[Wed May 06 10:06:10.278322 2020] [php7:error] [pid 25349] [client 185.220.100.252:11718] script '/var/www/convention.neolifeafrica.info/xmlrpc.php' not found or unable to stat
+[Mon May 11 14:25:59.884439 2020] [php7:error] [pid 4333] [client 122.154.134.183:53396] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat, referer: http://convention.neolifeafrica.info/wp-login.php
+[Wed May 13 11:02:27.785184 2020] [php7:error] [pid 13479] [client 54.188.20.140:65143] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat, referer: http://convention.neolifeafrica.info/wp-login.php
+[Sat May 16 04:16:50.665179 2020] [php7:error] [pid 25930] [client 103.83.36.101:42302] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat, referer: http://convention.neolifeafrica.info/wp-login.php
+[Tue May 19 21:46:56.039707 2020] [php7:error] [pid 11480] [client 176.31.105.112:64870] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat
+[Wed May 20 16:34:42.397610 2020] [php7:error] [pid 27979] [client 46.105.99.163:61182] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat
+[Wed May 27 15:49:11.610167 2020] [php7:error] [pid 5411] [client 178.128.6.190:39828] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat, referer: http://convention.neolifeafrica.info/wp-login.php
+[Sun May 31 05:29:24.501079 2020] [php7:error] [pid 11842] [client 192.99.15.15:51766] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat
+[Sun May 31 21:09:27.054706 2020] [php7:error] [pid 12780] [client 192.99.36.177:49927] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat
+[Sat Jun 06 02:55:50.936805 2020] [php7:error] [pid 1008] [client 103.146.202.150:55424] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat, referer: http://convention.neolifeafrica.info/wp-login.php
+[Fri Jun 12 05:11:21.545731 2020] [php7:error] [pid 1020] [client 192.99.36.177:58743] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat
+[Sun Jun 21 18:28:57.086444 2020] [php7:error] [pid 22778] [client 188.166.233.216:50514] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat, referer: http://convention.neolifeafrica.info/wp-login.php
+[Tue Jun 30 14:23:57.197762 2020] [php7:error] [pid 4019] [client 35.233.73.146:56158] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat, referer: http://convention.neolifeafrica.info/wp-login.php
+[Mon Jul 06 03:59:16.614772 2020] [php7:error] [pid 30334] [client 192.99.149.195:49656] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat, referer: http://convention.neolifeafrica.info/wp-login.php
+[Thu Jul 16 04:40:42.044280 2020] [php7:error] [pid 9870] [client 37.187.74.109:65508] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat
+[Thu Aug 06 18:14:00.232081 2020] [php7:error] [pid 29747] [client 35.229.138.243:56572] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat, referer: http://convention.neolifeafrica.info/wp-login.php
+[Thu Aug 06 18:14:23.563423 2020] [php7:error] [pid 31196] [client 157.245.220.153:38218] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat, referer: http://convention.neolifeafrica.info/wp-login.php
+[Tue Aug 11 02:28:00.312616 2020] [php7:error] [pid 9998] [client 70.88.133.182:60568] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat, referer: http://convention.neolifeafrica.info/wp-login.php
+[Fri Aug 14 17:37:45.278859 2020] [php7:error] [pid 1832] [client 137.74.206.80:38508] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat, referer: http://convention.neolifeafrica.info/wp-login.php
+[Tue Aug 18 20:31:39.577920 2020] [php7:error] [pid 12374] [client 198.27.81.188:60645] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat
+[Mon Aug 24 19:06:34.075813 2020] [php7:error] [pid 14997] [client 159.65.184.79:37112] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat, referer: http://convention.neolifeafrica.info/wp-login.php
+[Fri Aug 28 08:58:45.583163 2020] [php7:error] [pid 9207] [client 61.231.73.110:19879] script '/var/www/convention.neolifeafrica.info/xmlrpc.php' not found or unable to stat
+[Mon Sep 07 23:59:40.370869 2020] [php7:error] [pid 26664] [client 197.47.176.153:58200] script '/var/www/convention.neolifeafrica.info/xmlrpc.php' not found or unable to stat
+[Mon Sep 14 21:31:05.463314 2020] [php7:error] [pid 30922] [client 192.95.30.65:51479] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat, referer: http://www.google.com.hk
+[Thu Sep 17 15:27:01.963913 2020] [php7:error] [pid 3030] [client 118.70.239.146:50456] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat, referer: http://convention.neolifeafrica.info/wp-login.php
+[Thu Sep 17 15:27:55.453253 2020] [php7:error] [pid 3902] [client 178.128.103.151:50020] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat, referer: http://convention.neolifeafrica.info/wp-login.php
+[Thu Sep 17 15:28:09.867829 2020] [php7:error] [pid 2636] [client 118.70.239.146:60178] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat, referer: http://convention.neolifeafrica.info/wp-login.php
+[Fri Oct 02 15:57:29.259922 2020] [php7:error] [pid 24396] [client 65.74.177.84:48868] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat, referer: http://convention.neolifeafrica.info/wp-login.php
+[Wed Oct 07 19:26:05.851697 2020] [php7:error] [pid 16189] [client 159.65.228.105:57100] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat, referer: http://convention.neolifeafrica.info/wp-login.php
+[Sat Oct 17 12:01:54.282459 2020] [php7:error] [pid 30048] [client 158.69.248.120:40856] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat, referer: http://convention.neolifeafrica.info/wp-login.php
+[Fri Oct 30 09:32:43.137448 2020] [php7:error] [pid 14384] [client 125.25.118.130:41916] script '/var/www/convention.neolifeafrica.info/adminer.php' not found or unable to stat
+[Sat Oct 31 05:12:08.972621 2020] [php7:error] [pid 22164] [client 62.122.27.6:57916] script '/var/www/convention.neolifeafrica.info/adm.php' not found or unable to stat
+[Sun Nov 01 15:57:35.410448 2020] [php7:error] [pid 32388] [client 36.90.47.76:36624] script '/var/www/convention.neolifeafrica.info/db.php' not found or unable to stat
+[Mon Nov 02 21:14:48.112952 2020] [php7:error] [pid 25629] [client 121.66.198.76:58470] script '/var/www/convention.neolifeafrica.info/sql.php' not found or unable to stat
+[Tue Nov 03 16:22:55.386096 2020] [php7:error] [pid 27757] [client 188.232.117.119:58822] script '/var/www/convention.neolifeafrica.info/adminer.php' not found or unable to stat
+[Fri Nov 06 15:36:21.963315 2020] [php7:error] [pid 10998] [client 206.189.121.29:47966] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat, referer: http://convention.neolifeafrica.info/wp-login.php
+[Thu Nov 12 23:40:47.523274 2020] [php7:error] [pid 11667] [client 167.114.77.26:55425] script '/var/www/convention.neolifeafrica.info/xmlrpc.php' not found or unable to stat
+[Wed Dec 16 05:31:42.469150 2020] [php7:error] [pid 30406] [client 23.97.154.104:43898] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat, referer: http://convention.neolifeafrica.info/wp-login.php
+[Tue Dec 29 21:08:46.392260 2020] [php7:error] [pid 30944] [client 51.91.121.222:38762] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat, referer: http://convention.neolifeafrica.info/wp-login.php
+[Thu Dec 31 13:14:24.268302 2020] [php7:error] [pid 29764] [client 13.53.208.18:44546] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat
+[Sat Jan 02 12:00:38.420860 2021] [php7:error] [pid 25208] [client 52.15.212.3:23694] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat
+[Tue Jan 12 16:26:15.770148 2021] [php7:error] [pid 28851] [client 35.180.147.121:31108] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat
+[Tue Jan 12 16:26:16.380639 2021] [php7:error] [pid 28680] [client 35.180.147.121:4303] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat
+[Sat Jan 16 13:27:03.687006 2021] [php7:error] [pid 27600] [client 142.4.14.62:45380] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat, referer: http://convention.neolifeafrica.info/wp-login.php
+[Fri Jan 29 13:34:42.826961 2021] [php7:error] [pid 7234] [client 54.178.182.46:34983] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat
+[Fri Jan 29 13:34:43.281724 2021] [php7:error] [pid 5903] [client 54.178.182.46:37179] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat
+[Mon Feb 22 09:28:40.452391 2021] [php7:error] [pid 11045] [client 13.228.104.57:40311] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat
+[Fri Feb 26 04:34:38.220149 2021] [php7:error] [pid 29702] [client 137.74.193.74:50004] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat, referer: http://convention.neolifeafrica.info/wp-login.php
+[Sat Feb 27 06:47:35.049340 2021] [php7:error] [pid 8841] [client 52.65.15.196:38187] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat
+[Tue Mar 02 07:29:48.317982 2021] [php7:error] [pid 21848] [client 13.53.208.18:16441] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat
+[Wed Mar 03 12:18:47.433333 2021] [php7:error] [pid 11151] [client 34.203.37.48:2172] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat
+[Sun Mar 14 08:56:10.576937 2021] [php7:error] [pid 20694] [client 34.230.156.67:8583] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat
+[Thu Mar 18 21:46:30.461506 2021] [php7:error] [pid 7964] [client 66.55.76.17:56228] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat, referer: http://convention.neolifeafrica.info/wp-login.php
+[Sat Mar 20 10:01:34.083408 2021] [php7:error] [pid 8613] [client 185.182.56.157:46756] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat, referer: http://convention.neolifeafrica.info/wp-login.php
+[Sat Mar 20 10:01:46.540575 2021] [php7:error] [pid 9879] [client 23.254.225.195:38274] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat, referer: http://convention.neolifeafrica.info/wp-login.php
+[Sun Mar 28 17:12:01.222051 2021] [php7:error] [pid 23486] [client 34.65.222.112:42162] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat, referer: http://convention.neolifeafrica.info/wp-login.php
+[Sun Mar 28 17:12:10.803008 2021] [php7:error] [pid 18456] [client 94.23.45.15:57408] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat, referer: http://convention.neolifeafrica.info/wp-login.php
+[Thu Apr 01 04:11:58.899008 2021] [php7:error] [pid 11588] [client 35.181.112.20:25288] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat
+[Mon Apr 05 13:24:19.551525 2021] [php7:error] [pid 25918] [client 35.181.112.20:50784] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat
+[Wed Apr 07 03:59:34.476557 2021] [php7:error] [pid 8755] [client 3.8.68.2:46047] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat
+[Wed Apr 07 23:59:12.688539 2021] [php7:error] [pid 2175] [client 35.181.87.238:8368] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat
+[Thu Apr 08 08:59:11.781135 2021] [php7:error] [pid 24304] [client 13.124.222.242:50361] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat
+[Thu Apr 08 09:49:02.161527 2021] [php7:error] [pid 1364] [client 185.112.33.46:39456] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat, referer: http://convention.neolifeafrica.info/wp-login.php
+[Fri Apr 16 00:13:07.088596 2021] [php7:error] [pid 30823] [client 54.250.87.247:31753] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat
+[Fri Apr 16 10:15:59.069068 2021] [php7:error] [pid 16124] [client 35.180.147.121:4082] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat
+[Sat Apr 17 02:19:21.916497 2021] [php7:error] [pid 27203] [client 41.185.8.148:40468] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat, referer: http://convention.neolifeafrica.info/wp-login.php
+[Sat Apr 17 02:37:36.379860 2021] [php7:error] [pid 27204] [client 13.228.104.57:7876] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat
+[Sat Apr 17 12:05:47.077414 2021] [php7:error] [pid 10544] [client 13.53.64.97:53084] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat
+[Sun Apr 18 09:15:19.699823 2021] [php7:error] [pid 10646] [client 18.136.72.135:20271] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat
+[Tue Apr 20 08:27:47.078072 2021] [php7:error] [pid 8776] [client 13.124.222.242:15834] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat
+[Tue Apr 20 19:08:30.251658 2021] [php7:error] [pid 25184] [client 35.181.112.20:36585] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat
+[Fri Apr 23 05:14:47.913410 2021] [php7:error] [pid 21128] [client 18.194.196.202:56790] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat
+[Fri Apr 23 14:49:43.995620 2021] [php7:error] [pid 13008] [client 18.194.196.202:47329] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat
+[Wed Apr 28 11:44:39.597610 2021] [php7:error] [pid 13306] [client 178.165.70.181:39616] script '/var/www/convention.neolifeafrica.info/xmlrpc.php' not found or unable to stat
+[Wed Apr 28 11:44:43.126750 2021] [php7:error] [pid 13180] [client 178.165.70.181:41268] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat
+[Fri Apr 30 18:43:26.815844 2021] [php7:error] [pid 21198] [client 162.219.250.31:60062] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat, referer: http://convention.neolifeafrica.info/wp-login.php
+[Tue May 04 05:55:05.727670 2021] [php7:error] [pid 23633] [client 34.251.241.226:17905] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat
+[Tue May 04 15:17:02.789136 2021] [php7:error] [pid 12306] [client 52.65.15.196:29008] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat
+[Fri May 07 05:08:45.282214 2021] [php7:error] [pid 21272] [client 3.8.68.2:28151] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat
+[Fri May 07 15:10:32.061006 2021] [php7:error] [pid 30201] [client 3.0.115.255:35202] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat
+[Mon May 10 09:36:14.486889 2021] [php7:error] [pid 9944] [client 52.60.189.115:41162] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat
+[Sat May 15 04:35:34.087813 2021] [php7:error] [pid 4803] [client 18.229.73.207:61741] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat
+[Thu May 20 06:32:17.472596 2021] [php7:error] [pid 15119] [client 18.136.72.135:38374] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat
+[Sat May 22 03:16:57.885503 2021] [php7:error] [pid 24465] [client 124.158.183.182:33986] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat, referer: http://convention.neolifeafrica.info/wp-login.php
+[Mon May 24 15:49:19.471392 2021] [php7:error] [pid 23306] [client 54.176.188.51:39633] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat
+[Thu May 27 07:25:20.631659 2021] [php7:error] [pid 13040] [client 52.30.16.188:58573] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat
+[Thu May 27 13:22:52.242119 2021] [php7:error] [pid 29248] [client 18.229.73.207:19072] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat
+[Sat May 29 14:16:16.284284 2021] [php7:error] [pid 2799] [client 35.181.112.20:21209] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat
+[Tue Jun 01 06:04:05.029931 2021] [php7:error] [pid 26519] [client 54.176.188.51:40582] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat
+[Thu Jun 03 05:28:55.996361 2021] [php7:error] [pid 2920] [client 52.60.189.115:28393] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat
+[Sat Jun 05 17:19:48.710492 2021] [php7:error] [pid 13053] [client 52.65.15.196:44027] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat
+[Tue Jun 08 08:00:05.764864 2021] [php7:error] [pid 13528] [client 18.136.72.135:7526] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat
+[Wed Jun 09 06:16:08.250376 2021] [php7:error] [pid 15771] [client 52.42.79.222:2359] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat
+[Fri Jun 11 04:06:59.176627 2021] [php7:error] [pid 31850] [client 13.124.222.242:3644] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat
+[Sat Jun 12 08:09:32.894417 2021] [php7:error] [pid 2869] [client 52.52.190.187:38172] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat
+[Sun Jun 13 06:01:05.682887 2021] [php7:error] [pid 6026] [client 13.233.73.212:1274] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat
+[Tue Jun 15 20:40:18.576721 2021] [php7:error] [pid 25216] [client 13.233.73.212:47487] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat
+[Thu Jun 17 17:24:54.990302 2021] [php7:error] [pid 21435] [client 34.236.202.207:8627] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat
+[Fri Jun 18 16:12:01.505378 2021] [php7:error] [pid 6112] [client 13.209.28.104:48472] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat
+[Sat Jun 19 16:24:03.345439 2021] [php7:error] [pid 3146] [client 34.241.77.13:27605] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat
+[Sun Jun 20 08:29:18.636735 2021] [php7:error] [pid 27751] [client 132.148.150.222:40642] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat, referer: http://convention.neolifeafrica.info/wp-login.php
+[Sun Jun 20 09:09:55.295124 2021] [php7:error] [pid 4574] [client 35.181.112.20:29088] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat
+[Tue Jun 22 20:02:32.086909 2021] [php7:error] [pid 31646] [client 142.54.177.5:55796] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat, referer: http://www.google.com.hk
+[Thu Jul 01 14:43:07.957640 2021] [php7:error] [pid 10442] [client 142.44.246.226:57024] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat, referer: http://convention.neolifeafrica.info/wp-login.php
+[Sun Jul 11 02:12:47.456786 2021] [php7:error] [pid 28547] [client 134.209.67.45:51066] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat, referer: http://convention.neolifeafrica.info/wp-login.php
+[Wed Aug 04 21:53:00.434679 2021] [php7:error] [pid 20392] [client 82.223.243.135:53054] script '/var/www/convention.neolifeafrica.info/style.php' not found or unable to stat, referer: anonymousfox.co
+[Wed Aug 04 21:53:05.991629 2021] [php7:error] [pid 20935] [client 82.223.243.135:57676] script '/var/www/convention.neolifeafrica.info/moduless.php' not found or unable to stat, referer: anonymousfox.co
+[Wed Aug 04 21:53:19.651705 2021] [php7:error] [pid 19027] [client 82.223.243.135:49368] script '/var/www/convention.neolifeafrica.info/admin.php' not found or unable to stat, referer: anonymousfox.co
+[Wed Aug 04 21:53:36.910612 2021] [php7:error] [pid 18832] [client 82.223.243.135:52123] script '/var/www/convention.neolifeafrica.info/boom.php' not found or unable to stat, referer: anonymousfox.co
+[Wed Aug 04 21:54:00.530088 2021] [php7:error] [pid 20672] [client 82.223.243.135:64705] script '/var/www/convention.neolifeafrica.info/xmlrp.php' not found or unable to stat, referer: anonymousfox.co
+[Wed Aug 04 21:54:06.870275 2021] [php7:error] [pid 20566] [client 82.223.243.135:56568] script '/var/www/convention.neolifeafrica.info/wpindex.php' not found or unable to stat, referer: anonymousfox.co
+[Wed Aug 04 21:54:11.402898 2021] [php7:error] [pid 16642] [client 82.223.243.135:62705] script '/var/www/convention.neolifeafrica.info/larva.php' not found or unable to stat, referer: anonymousfox.co
+[Wed Aug 04 21:54:17.775405 2021] [php7:error] [pid 19471] [client 82.223.243.135:51325] script '/var/www/convention.neolifeafrica.info/th3_err0r.php' not found or unable to stat, referer: anonymousfox.co
+[Wed Aug 04 21:54:22.600602 2021] [php7:error] [pid 19466] [client 82.223.243.135:60140] script '/var/www/convention.neolifeafrica.info/alfindex.php' not found or unable to stat, referer: anonymousfox.co
+[Wed Aug 04 21:54:26.966874 2021] [php7:error] [pid 18832] [client 82.223.243.135:50565] script '/var/www/convention.neolifeafrica.info/alfa.php' not found or unable to stat, referer: anonymousfox.co
+[Wed Aug 04 21:54:32.718799 2021] [php7:error] [pid 20234] [client 82.223.243.135:50700] script '/var/www/convention.neolifeafrica.info/wp-booking.php' not found or unable to stat, referer: anonymousfox.co
+[Wed Aug 04 21:54:39.593767 2021] [php7:error] [pid 20672] [client 82.223.243.135:58232] script '/var/www/convention.neolifeafrica.info/cindex.php' not found or unable to stat, referer: anonymousfox.co
+[Wed Aug 04 21:54:51.084973 2021] [php7:error] [pid 20566] [client 82.223.243.135:58403] script '/var/www/convention.neolifeafrica.info/wp-1ogin_bak.php' not found or unable to stat, referer: anonymousfox.co
+[Wed Aug 04 21:55:08.701653 2021] [php7:error] [pid 20672] [client 82.223.243.135:56149] script '/var/www/convention.neolifeafrica.info/old-index.php' not found or unable to stat, referer: anonymousfox.co
+[Wed Aug 04 21:55:13.493112 2021] [php7:error] [pid 21370] [client 82.223.243.135:60838] script '/var/www/convention.neolifeafrica.info/config.bak.php' not found or unable to stat, referer: anonymousfox.co
+[Wed Aug 04 21:56:08.592520 2021] [php7:error] [pid 21465] [client 82.223.243.135:56059] script '/var/www/convention.neolifeafrica.info/haders.php' not found or unable to stat, referer: anonymousfox.co
+[Wed Aug 04 21:56:18.009766 2021] [php7:error] [pid 19466] [client 82.223.243.135:61993] script '/var/www/convention.neolifeafrica.info/legion.php' not found or unable to stat, referer: anonymousfox.co
+[Wed Aug 04 21:56:38.955230 2021] [php7:error] [pid 21550] [client 82.223.243.135:49589] script '/var/www/convention.neolifeafrica.info/up.php' not found or unable to stat, referer: anonymousfox.co
+[Wed Aug 04 21:56:44.505748 2021] [php7:error] [pid 18832] [client 82.223.243.135:55282] script '/var/www/convention.neolifeafrica.info/upload.php' not found or unable to stat, referer: anonymousfox.co
+[Wed Aug 04 21:56:49.909069 2021] [php7:error] [pid 19471] [client 82.223.243.135:54738] script '/var/www/convention.neolifeafrica.info/config.php' not found or unable to stat, referer: anonymousfox.co
+[Wed Aug 04 21:56:55.494897 2021] [php7:error] [pid 21370] [client 82.223.243.135:54354] script '/var/www/convention.neolifeafrica.info/test.php' not found or unable to stat, referer: anonymousfox.co
+[Fri Aug 13 10:06:29.123597 2021] [php7:error] [pid 31949] [client 3.235.168.37:58709] script '/var/www/convention.neolifeafrica.info/1index.php' not found or unable to stat
+[Fri Aug 13 10:12:39.196602 2021] [php7:error] [pid 308] [client 3.235.168.37:64147] script '/var/www/convention.neolifeafrica.info/2index.php' not found or unable to stat
+[Fri Aug 13 10:18:08.493866 2021] [php7:error] [pid 2263] [client 3.235.168.37:49390] script '/var/www/convention.neolifeafrica.info/mclash.php' not found or unable to stat
+[Wed Sep 01 13:52:17.985684 2021] [php7:error] [pid 15903] [client 18.138.239.67:56068] script '/var/www/convention.neolifeafrica.info/info.php' not found or unable to stat
+[Wed Sep 01 13:56:15.788843 2021] [php7:error] [pid 26657] [client 18.138.239.67:64000] script '/var/www/convention.neolifeafrica.info/phpinfo.php' not found or unable to stat
+[Wed Sep 01 13:56:21.371948 2021] [php7:error] [pid 26656] [client 18.138.239.67:64920] script '/var/www/convention.neolifeafrica.info/info.php' not found or unable to stat
+[Mon Sep 06 03:43:58.248853 2021] [php7:error] [pid 29209] [client 18.138.239.67:53431] script '/var/www/convention.neolifeafrica.info/phpinfo.php' not found or unable to stat
+[Mon Sep 06 03:44:04.614847 2021] [php7:error] [pid 29071] [client 18.138.239.67:51642] script '/var/www/convention.neolifeafrica.info/info.php' not found or unable to stat
+[Mon Sep 06 03:44:26.671888 2021] [php7:error] [pid 6839] [client 18.138.239.67:64761] script '/var/www/convention.neolifeafrica.info/info.php' not found or unable to stat
+[Sun Sep 12 07:45:54.954315 2021] [php7:error] [pid 16964] [client 34.69.15.16:38444] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat, referer: http://convention.neolifeafrica.info
+[Sun Sep 12 21:58:20.160149 2021] [php7:error] [pid 4359] [client 190.107.162.27:41596] script '/var/www/convention.neolifeafrica.info/adminer.php' not found or unable to stat
+[Wed Nov 03 23:59:39.182787 2021] [php7:error] [pid 32675] [client 141.98.9.3:60012] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat
+[Wed Nov 10 01:44:39.349953 2021] [php7:error] [pid 11861] [client 52.4.50.142:53516] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat, referer: http://convention.neolifeafrica.info/wp-login.php
+[Thu Nov 11 12:08:26.222075 2021] [php7:error] [pid 27828] [client 54.82.57.245:49200] script '/var/www/convention.neolifeafrica.info/wp-login.php' not found or unable to stat, referer: http://convention.neolifeafrica.info/wp-login.php
