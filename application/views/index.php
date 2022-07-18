@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <link rel="stylesheet" href="<?=base_url('assets/css/bootstrap.min.css') ?>">
-  <title>Convention @ 2019</title>
+  <title>Convention @ 2022</title>
   <script type="text/javascript">
     const SITE_URL = '<?=site_url() ?>';
   </script>
@@ -34,7 +34,7 @@
 <body>
 
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
-    <a class="navbar-brand" href="<?=site_url() ?>">Convention 2019</a>
+    <a class="navbar-brand" href="<?=site_url() ?>">Convention 2022</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
